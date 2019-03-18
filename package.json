@@ -1,0 +1,33 @@
+{
+  "name": "template mevn",
+  "version": "1.0.0",
+  "description": " template mevn stack ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeltrickz/templatemevn"
+  },
+  "keywords": [
+    
+    "Node.js",
+    "socket.io"
+  ],
+  "author": "Angel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeltrickz/templatemevn"
+  },
+  "homepage": "https://github.com/angeltrickz/templatemevn",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.15.2",
+    "mongoose": "^5.1.6",
+    "nipplejs": "^0.7.1",
+    "socket.io": "^1.7.3",
+    "socket.io-stream": "^0.9.1"
+  }
+}
